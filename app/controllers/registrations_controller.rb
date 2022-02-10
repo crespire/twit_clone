@@ -1,4 +1,4 @@
-class RegistrationsController < Dvise::RegistrationsController
+class RegistrationsController < Devise::RegistrationsController
   private
 
   def sign_up_parmas
