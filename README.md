@@ -1,24 +1,5 @@
-# README
+# Code along Twitter
+This project is based on the web-crunch tutorial for building a Twitter clone on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Original repo with instructions and links: https://github.com/justalever/twittter
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
